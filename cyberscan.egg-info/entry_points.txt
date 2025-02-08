@@ -1,0 +1,2 @@
+[console_scripts]
+cyberscan = core.port_scanner:main

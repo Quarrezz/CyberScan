@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: cyberscan
+Version: 1.0
+Summary: Advanced Cyber Security Scanner
+Home-page: https://github.com/seninhesabin/cyberscan
+Author: Senin Adın
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: requests
+Requires-Dist: paramiko
+Requires-Dist: scapy
+Requires-Dist: smbprotocol
