@@ -59,7 +59,7 @@ cyberscan target.com --deep --write results.txt
 ---
 
 📊 Example Output
-
+```bash
 [🔍] Target Information:
   - Domain: target.com
   - IP: 192.168.1.1
@@ -75,6 +75,7 @@ cyberscan target.com --deep --write results.txt
   [+] 443/TCP | https | Version: OpenSSL 1.1.1 | Exploit: None
 
 [✅] Scan Completed!
+```
 
 ---
 
